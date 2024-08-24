@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "my academic page"
-description              : "This is my academic page. "
+description              : "PhD student in TTU, research topics: data management on HPC, LLM on HPC "
 repository               : "chenxuniu/chenxuniu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Chenxu Niu"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/my_photo.jpg"
   bio              : "Lorem ipsum College"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=i1H5XQ8AAAAJ"
-  email            : "Lorem@ipsum.com"
+  email            : "ncxhxgtg@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://https://dblp.org/pid/258/7033.html"
+  dblp             : # "https://https://dblp.org/pid/258/7033.html"
   orcid            : "https://orcid.org/0000-0002-2142-1731"
   pinterest        :
   soundcloud       :
