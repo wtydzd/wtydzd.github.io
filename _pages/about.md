@@ -38,6 +38,9 @@ I am a Ph.D. candidate in the Department of Computer Science at Texas Tech Unive
 
 **Chenxu Niu**, Wei Zhang, Suren Byna, Yong Chen
 
+</div>
+</div>
+
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
@@ -50,6 +53,9 @@ I am a Ph.D. candidate in the Department of Computer Science at Texas Tech Unive
 
 **Chenxu Niu**, Wei Zhang, Suren Byna, Yong Chen
 
+</div>
+</div>
+
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
@@ -61,6 +67,9 @@ I am a Ph.D. candidate in the Department of Computer Science at Texas Tech Unive
 [Exploring metadata search essentials for scientific data management](https://sdm.lbl.gov/~sbyna/research/papers/2019/201912-EOD_HDF5_Metadata_Queries-HiPC_2019-DOI.pdf)
 
 Wei Zhang, Suren Byna, **Chenxu Niu**, Yong Chen
+
+</div>
+</div>
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
