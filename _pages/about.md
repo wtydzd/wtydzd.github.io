@@ -31,7 +31,7 @@ I am a Ph.D. candidate in the Department of Computer Science at Texas Tech Unive
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Big Data 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Big Data 2023</div><img src='images/PSQS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PSQS: Parallel Semantic Querying Service for Self-describing File Formats](https://sbyna.github.io/research/papers/2023/202312-pre-PSQS-Niu.pdf)
@@ -43,7 +43,7 @@ I am a Ph.D. candidate in the Department of Computer Science at Texas Tech Unive
 </div>
 </div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPEC 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPEC 2022</div><img src='images/kv2vec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Kv2vec: A distributed representation method for key-value pairs from metadata attributes](https://drive.google.com/file/d/19UUCLtrfQIrLnXcQ2KJowbsGGyP4MydT/view)
@@ -55,7 +55,7 @@ I am a Ph.D. candidate in the Department of Computer Science at Texas Tech Unive
 </div>
 </div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Big Data 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Big Data 2023</div><img src='images/explore.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exploring metadata search essentials for scientific data management](https://sdm.lbl.gov/~sbyna/research/papers/2019/201912-EOD_HDF5_Metadata_Queries-HiPC_2019-DOI.pdf)
