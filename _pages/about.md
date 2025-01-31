@@ -17,17 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in the Department of Computer Science at Texas Tech University. I am part of the research team led by Dr. Yong Chen, collaborating with experts like Dr. Wei Zhang from Lawrence Berkeley National Lab and Dr. Suren Byna from The Ohio State University. My research focuses on High-Performance Computing (HPC) and scientific data management, and large language models on HPC.
+I am a Ph.D. candidate and research assistant in the Department of Computer Science at Texas Tech University. I am part of the research team led by Dr. Yong Chen, collaborating with experts like Dr. Alan Sill, senior scientist from Texas Tech University and Dr. Xi Wang from Southeast University. My research focuses on High-Performance Computing (HPC) and large language models on HPC.
 
-<!-- I have published several papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+<!-- I have published several papers at the international conferences with total <a href='https://scholar.google.com/citations?user=0ksyzc8AAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=0ksyzc8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 📖 Educations
-- *2019.06 - now*, PhD student, Computer Science, Texas Tech University, Lubbock, Texas
-- *2015.09 - 2018.06*, Master, Information Science and Technology, University of Science and Technology of China, China
-- *2011.09 - 2015.06*, Bachelor, Mathematics, University of Science and Technology of China, China
+- *2025.01 - now*, PhD student, Computer Science, Texas Tech University, Lubbock, Texas
+- *2023.08 - 2024.12*, Master, Electrical and Computer Engineering, University of Florida, Gainesville, Florida
+- *2018.09 - 2022.06*, Bachelor, Mechanical Engineering, Shanghai Jiao Tong University, Shanghai, China
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉 I attended <a href='https://www.hdfgroup.org/hug/hug24/'> HUG24 meeting </a> and gave a presentation named "Semantic Semantic Search and Natural Language Query over HDF5"
+- *2024.08*: &nbsp;🎉🎉 I attended <a href='https://sc24.supercomputing.org'> SC24 conference
 
 # 📝 Publications 
 
