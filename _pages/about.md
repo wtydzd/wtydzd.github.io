@@ -27,7 +27,7 @@ I am a Ph.D. candidate and research assistant in the Department of Computer Scie
 - *2018.09 - 2022.06*, Bachelor, Mechanical Engineering, Shanghai Jiao Tong University, Shanghai, China
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉 I attended <a href='https://sc24.supercomputing.org'> SC24 conference
+- *2024.11*: &nbsp;🎉🎉 I attended <a href='https://sc24.supercomputing.org'> SC24 conference
 
 # 📝 Publications 
 
@@ -79,12 +79,12 @@ Wei Zhang, Suren Byna, **Chenxu Niu**, Yong Chen
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2015* National third-class prize of Mathematical and Cryptographic Algorithm Contest in China 2015.
-- *2014* National third-class prize of China Undergraduate Mathematical Contest in Modelling in China.
-- *2012-2015* First-class undergraduate scholarship of USTC. (top 10%)
+- *2023, 2024* Academic Achievement Award Scholarship (3 times).
+- *2022* Nomination for Outstanding Graduates of the School of Mechanical Engineering of SJTU.
+- *2021* Undergraduate scholarship of SJTU.
 
 # 💬 Sicieties and community contributions
-- *2024*, Student volunteer at Supercomputing 2024 (The International Conference for High Performance
+- *2024*, Student at Supercomputing 2024 (The International Conference for High Performance
 Computing, Networking, Storage, and Analysis)
 - *2016*, Student volunteer at Mathematics Theory of Chinese Association of Cryptography Conference.
 - *2015*, Student volunteer at first Post Quantum Cryptography Asia Forum (PQCAM).
