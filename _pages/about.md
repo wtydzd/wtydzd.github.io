@@ -86,8 +86,10 @@ Wei Zhang, Suren Byna, **Chenxu Niu**, Yong Chen
 # 💬 Sicieties and community contributions
 - *2024*, Student at Supercomputing 2024 (The International Conference for High Performance
 Computing, Networking, Storage, and Analysis)
-- *2016*, Student volunteer at Mathematics Theory of Chinese Association of Cryptography Conference.
-- *2015*, Student volunteer at first Post Quantum Cryptography Asia Forum (PQCAM).
+- *2022*, Research Assistant in National Engineering Laboratory for Automotive Electronic Control Technology at SJTU.
+- *2020*, Student volunteer at 2020 Shanghai Marathon.
 
 # 💻 Internships
-- *2017.07 - 2017.09*, Java Engineer Internship, Huawei Technologies Co. Ltd, China.
+- *2024.05 - 2024.08*, Internship in R&D Department, MacroSilicon Technology Co., Ltd, China.
+- *2022.06 - 2022.08*, Internship in R&D Department, iFLYTEK Co., Ltd, China.
+- *2021.07 - 2021.08*, Internship in Mobile Internet Department, SAIC Volkswagen Automotive Co., Ltd, China.
