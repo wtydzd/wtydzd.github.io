@@ -86,7 +86,8 @@ Wei Zhang, Suren Byna, **Chenxu Niu**, Yong Chen
 # 💬 Sicieties and community contributions
 - *2024*, Student at Supercomputing 2024 (The International Conference for High Performance
 Computing, Networking, Storage, and Analysis)
-- *2022*, Team Leader at the Design of Hydrogen Injection and Study of Gas Beam Characteristics (Senior Design Project between SJTU and United Automotive Electronic Systems (UAES), <a href='https://me.sjtu.edu.cn/bysj/jxgc_2022/999.html'> ).
+- *2022*, Team Leader at the <a href='https://me.sjtu.edu.cn/bysj/jxgc_2022/999.html'> Design of Hydrogen Injection and Study of Gas Beam Characteristics
+(Senior Design Project between SJTU and United Automotive Electronic Systems (UAES)).
 - *2021*, Research Assistant in National Engineering Laboratory for Automotive Electronic Control Technology at SJTU.
 - *2020*, Student Volunteer at 2020 Shanghai Marathon.
 
