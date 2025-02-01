@@ -42,7 +42,7 @@ Yang, L.†, **Wang, T.**†, Cai, C†.
 
 <div class='paper-box-text' markdown="1">
 
-[Experimental investigations of the phase change impacts on flash boiling spray propagations and impingements](https://doi.org/10.1016/j.fuel.2021.122871)  
+[Experimental Investigations of the Phase Change Impacts on Flash Boiling Spray Propagations and Impingements](https://doi.org/10.1016/j.fuel.2021.122871)  
 Qiu, S., Xiao, D., Zhang, X., Wang, S., **Wang, T.**, Li, X., Xu, M.  
 *Fuel*, **312**, 122871, 2022.  
 
