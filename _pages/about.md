@@ -22,7 +22,7 @@ I am a Ph.D. candidate and research assistant in the Department of Computer Scie
 <!-- I have published several papers at the international conferences with total <a href='https://scholar.google.com/citations?user=0ksyzc8AAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=0ksyzc8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 📖 Educations
-- *2025.01 - now*, PhD student, Computer Science, Texas Tech University, Lubbock, Texas
+- *2025.01 - now*, Ph.D. student, Computer Science, Texas Tech University, Lubbock, Texas
 - *2023.08 - 2024.12*, Master, Electrical and Computer Engineering, University of Florida, Gainesville, Florida
 - *2018.09 - 2022.06*, Bachelor, Mechanical Engineering, Shanghai Jiao Tong University, Shanghai, China
 
