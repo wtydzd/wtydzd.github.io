@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "my academic page"
-description              : "research topics: High Performance Computing, Parallel & Distributed Computing"
+title                    : "Tongyang Wang"
+description              : "Research Topics: High Performance Computing, Parallel & Distributed Computing"
 repository               : "wtydzd/wtydzd.github.io"
 google_scholar_stats_use_cdn : true
 
