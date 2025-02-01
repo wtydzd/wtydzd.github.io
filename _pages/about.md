@@ -50,7 +50,7 @@ Qiu, S., Xiao, D., Zhang, X., Wang, S., **Wang, T.**, Li, X., Xu, M.
 
 <div class='paper-box-text' markdown="1">
 
-[Experimental Investigations of the Phase Change Impacts on Flash Boiling Spray Propagations and Impingements]  
+Experimental Investigations of the Phase Change Impacts on Flash Boiling Spray Propagations and Impingements  
 Qiu, S., Xiao, D., Zhang, X., Wang, S., **Wang, T.**  
 *The Institute for Liquid Atomization and Spray Systems (ILASS)-Europe*, 2022.  
 
@@ -58,7 +58,7 @@ Qiu, S., Xiao, D., Zhang, X., Wang, S., **Wang, T.**
 
 <div class='paper-box-text' markdown="1">
 
-[Experimental Investigations of Flash Boiling Spray Wall Impingement Using Laser-Induced Exciplex Fluorescence]  
+Experimental Investigations of Flash Boiling Spray Wall Impingement Using Laser-Induced Exciplex Fluorescence  
 Qiu, S., **Wang, T.**, Li, K., et al.  
 *Powertrain Modelling and Control, Testing, Mapping and Calibration Conference*, Loughborough University, United Kingdom, 2022.  
 
