@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "my academic page"
-description              : "research topics: High Performance Computing, Parallel & Distributed Computing, Medical AI"
+description              : "research topics: High Performance Computing, Parallel & Distributed Computing"
 repository               : "wtydzd/wtydzd.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "linkedin Tongyang Wang"
+  linkedin         : "linkedin wtydzd"
   dblp             : # "https://https://dblp.org/pid/258/7033.html"
   orcid            : # "https://orcid.org/0000-0002-2142-1731"
   pinterest        :
