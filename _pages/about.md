@@ -31,55 +31,50 @@ I am a Ph.D. candidate and research assistant in the Department of Computer Scie
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Big Data 2023</div><img src='images/PSQS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PSQS: Parallel Semantic Querying Service for Self-describing File Formats](https://sbyna.github.io/research/papers/2023/202312-pre-PSQS-Niu.pdf)
-
-**Chenxu Niu**, Wei Zhang, Suren Byna, Yong Chen
+[Quantitative Factor Exploration Based on Insider Trading Detection](https://doi.org/10.54254/2754-1169/21/20230238)  
+Yang, L.†, **Wang, T.**†, Cai, C†. 
+† **Equal contribution (co-first authors).**
+*AEMPS*, Vol. 21: 88-100, 2023. 
 
 </div>
-</div>
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div> -->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPEC 2022</div><img src='images/kv2vec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Kv2vec: A distributed representation method for key-value pairs from metadata attributes](https://drive.google.com/file/d/19UUCLtrfQIrLnXcQ2KJowbsGGyP4MydT/view)
-
-**Chenxu Niu**, Wei Zhang, Suren Byna, Yong Chen
+[Experimental investigations of the phase change impacts on flash boiling spray propagations and impingements](https://doi.org/10.1016/j.fuel.2021.122871)  
+Qiu, S., Xiao, D., Zhang, X., Wang, S., **Wang, T.**, Li, X., Xu, M.  
+*Fuel*, **312**, 122871, 2022.  
 
 </div>
-</div>
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div> -->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Big Data 2023</div><img src='images/explore.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exploring metadata search essentials for scientific data management](https://sdm.lbl.gov/~sbyna/research/papers/2019/201912-EOD_HDF5_Metadata_Queries-HiPC_2019-DOI.pdf)
-
-Wei Zhang, Suren Byna, **Chenxu Niu**, Yong Chen
+[Experimental Investigations of the Phase Change Impacts on Flash Boiling Spray Propagations and Impingements]  
+Qiu, S., Xiao, D., Zhang, X., Wang, S., **Wang, T.**  
+*The Institute for Liquid Atomization and Spray Systems (ILASS)-Europe*, 2022.  
 
 </div>
+
+<div class='paper-box-text' markdown="1">
+
+[Experimental Investigations of Flash Boiling Spray Wall Impingement Using Laser-Induced Exciplex Fluorescence]  
+Qiu, S., **Wang, T.**, Li, K., et al.  
+*Powertrain Modelling and Control, Testing, Mapping and Calibration Conference*, Loughborough University, United Kingdom, 2022.  
+
 </div>
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div> -->
+<div class='paper-box-text' markdown="1">
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+[Experimental Investigations of Injector Internal Parameters Impact on Tip Wetting Using Laser-induced Fluorescence](https://www.researchgate.net/publication/354938775_Experimental_investigations_of_injector_internal_parameters_impact_on_tip_wetting_using_Laser-induced_Fluorescence)  
+Xiao, D., Qiu, S., **Wang, T.**, et al.  
+*International Conference on Liquid Atomization and Spray Systems (ICLASS)*, Vol. 1, No. 1, 2021.  
+
+</div>
+
 
 # 🎖 Honors and Awards
-- *2023, 2024* Academic Achievement Award Scholarship (3 times).
+- *2023, 2024* Academic Achievement Award Scholarship at UF (3 times).
 - *2022* Nomination for Outstanding Graduates of the School of Mechanical Engineering of SJTU.
 - *2021* Undergraduate scholarship of SJTU.
 
