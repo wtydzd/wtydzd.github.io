@@ -74,9 +74,9 @@ Xiao, D., Qiu, S., **Wang, T.**, et al.
 
 
 # 🎖 Honors and Awards
-- *2023, 2024* Academic Achievement Award Scholarship at UF (3 times).
-- *2022* Nomination for Outstanding Graduates of the School of Mechanical Engineering of SJTU.
-- *2021* Undergraduate scholarship of SJTU.
+- *2023, 2024*, Academic Achievement Award Scholarship at UF (3 times).
+- *2022*, Nomination for Outstanding Graduates of the School of Mechanical Engineering of SJTU.
+- *2021*, Undergraduate scholarship of SJTU.
 
 # 💬 Sicieties and community contributions
 - *2024*, Student at Supercomputing 2024 (The International Conference for High Performance
