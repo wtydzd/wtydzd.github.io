@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tongyang Wang"
   avatar           : "images/my_photo.jpg"
-  bio              : "PhD student & RA"
+  bio              : "Ph.D. & RA"
   location         : "Lubbock, TX"
   employer         :
   pubmed           : 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "linkedin wtydzd"
+  linkedin         : "https://www.linkedin.com/in/tongyang-wang/"
   dblp             : # "https://https://dblp.org/pid/258/7033.html"
   orcid            : # "https://orcid.org/0000-0002-2142-1731"
   pinterest        :
