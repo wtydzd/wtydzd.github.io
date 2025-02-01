@@ -78,7 +78,7 @@ Xiao, D., Qiu, S., **Wang, T.**, et al.
 - *2022*, Nomination for Outstanding Graduates of the School of Mechanical Engineering of SJTU.
 - *2021*, Undergraduate scholarship of SJTU.
 
-# 💬 Sicieties and community contributions
+# 💬 Sicieties and Community Contributions
 - *2024*, Student at Supercomputing 2024 (The International Conference for High Performance
 Computing, Networking, Storage, and Analysis)
 - *2022*, Team Leader at the <a href='https://me.sjtu.edu.cn/bysj/jxgc_2022/999.html'> Design of Hydrogen Injection and Study of Gas Beam Characteristics</a> (Senior Design Project between SJTU and United Automotive Electronic Systems (UAES)).
