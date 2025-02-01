@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "my academic page"
 description              : "research topics: High Performance Computing, Parallel & Distributed Computing, Medical AI"
-repository               : "wtydzd/tongyangwang.github.io"
+repository               : "wtydzd/wtydzd.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
