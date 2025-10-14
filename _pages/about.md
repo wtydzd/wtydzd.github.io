@@ -27,8 +27,8 @@ I am a Ph.D. student and research assistant in the Department of Computer Scienc
 - *2018.09 - 2022.06*, Bachelor, Mechanical Engineering, Shanghai Jiao Tong University, Shanghai, China
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 I attended <a href='https://sc24.supercomputing.org'> SC24 conference
-- *2024.11*: &nbsp;✈️✈️ I am going to attend <a href='https://sc25.supercomputing.org'> SC25 conference as a volunteer
+- *2025.11*: &nbsp;✈️✈️ I am going to attend <a href='https://sc25.supercomputing.org'>SC25 conference</a> as a student volunteer
+- *2024.11*: &nbsp;🎉🎉 I attended <a href='https://sc24.supercomputing.org'> SC24 conference
 
 # 📝 Publications 
 
