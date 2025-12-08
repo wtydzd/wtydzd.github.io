@@ -27,10 +27,18 @@ I am a Ph.D. student and research assistant in the Department of Computer Scienc
 - *2018.09 - 2022.06*, Bachelor, Mechanical Engineering, Shanghai Jiao Tong University, Shanghai, China
 
 # 🔥 News
-- *2025.11*: &nbsp;✈️✈️ I am going to attend <a href='https://sc25.supercomputing.org'>SC25 conference</a> as a student volunteer
+- *2025.11*: &nbsp;✈️✈️ I attended <a href='https://sc25.supercomputing.org'>SC25 conference</a> as a student volunteer
 - *2024.11*: &nbsp;🎉🎉 I attended <a href='https://sc24.supercomputing.org'> SC24 conference
 
-# 📝 Publications 
+# 📝 Publications
+
+<div class='paper-box-text' markdown="1">
+
+[TokenPowerBench: Benchmarking the Power Consumption of LLM Inference](https://doi.org/10.48550/arXiv.2512.03024)  
+Niu, C., Zhang W., Li J., Zhao Y., **Wang, T.**, Wang, X., Chen, Y.
+*AAAI2026*, to appear. arXiv:2512.03024. 
+
+</div>
 
 <div class='paper-box-text' markdown="1">
 
