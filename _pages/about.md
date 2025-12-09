@@ -27,8 +27,8 @@ I am a Ph.D. student and research assistant in the Department of Computer Scienc
 - *2018.09 - 2022.06*, Bachelor, Mechanical Engineering, Shanghai Jiao Tong University, Shanghai, China
 
 # 🔥 News
-- *2025.11*: &nbsp;✈️✈️ I attended <a href='https://sc25.supercomputing.org'>SC25 conference</a> as a student volunteer
-- *2024.11*: &nbsp;🎉🎉 I attended <a href='https://sc24.supercomputing.org'> SC24 conference
+- *2025.11*: &nbsp;✈️✈️ I attended <a href='https://sc25.supercomputing.org'>SC25 conference</a> as a student volunteer in Saint Louis
+- *2024.11*: &nbsp;🎉🎉 I attended <a href='https://sc24.supercomputing.org'> SC24 conference in Atlanta
 
 # 📝 Publications
 
@@ -88,6 +88,8 @@ Xiao, D., Qiu, S., **Wang, T.**, et al.
 - *2021*, Undergraduate scholarship of SJTU.
 
 # 💬 Societies and Community Contributions
+- *2025*, Student volunteer at Supercomputing 2025 (The International Conference for High Performance
+Computing, Networking, Storage, and Analysis)
 - *2024*, Student at Supercomputing 2024 (The International Conference for High Performance
 Computing, Networking, Storage, and Analysis)
 - *2022*, Team Leader at the <a href='https://me.sjtu.edu.cn/bysj/jxgc_2022/999.html'> Design of Hydrogen Injection and Study of Gas Beam Characteristics</a> (Senior Design Project between SJTU and United Automotive Electronic Systems (UAES)).
